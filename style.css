@@ -1,14 +1,23 @@
+body{
+    background: gray;
+}
+
 #title {
-    color: blue
+    color: blue;
 }
 #subtitle{
-    color: green
+    color: green;
 }
 #post_title{
-    color: purple
+    color: purple;
 }
 
 post_title {
     font-size: 16px;
     font-style: italic;
+}
+
+post {
+    background: whitesmoke;
+    padding: 10px;
 }
